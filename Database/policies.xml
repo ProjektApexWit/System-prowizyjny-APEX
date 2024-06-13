@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <NAME>Policy A</NAME>
+  <POLICY_ID>101</POLICY_ID>
+  <TYPE>Health</TYPE>
+  <DESCRIPTION>Basic Health Coverage</DESCRIPTION>
+  <FEE>150</FEE>
+ </ROW>
+ <ROW>
+  <NAME>Policy B</NAME>
+  <POLICY_ID>102</POLICY_ID>
+  <TYPE>Life</TYPE>
+  <DESCRIPTION>Term Life Insurance</DESCRIPTION>
+  <FEE>200</FEE>
+ </ROW>
+ <ROW>
+  <NAME>Policy C</NAME>
+  <POLICY_ID>103</POLICY_ID>
+  <TYPE>Auto</TYPE>
+  <DESCRIPTION>Comprehensive Auto Insurance</DESCRIPTION>
+  <FEE>300</FEE>
+ </ROW>
+ <ROW>
+  <NAME>Policy D</NAME>
+  <POLICY_ID>104</POLICY_ID>
+  <TYPE>Home</TYPE>
+  <DESCRIPTION>Homeowners Insurance</DESCRIPTION>
+  <FEE>250</FEE>
+ </ROW>
+ <ROW>
+  <NAME>Policy E</NAME>
+  <POLICY_ID>105</POLICY_ID>
+  <TYPE>Travel</TYPE>
+  <DESCRIPTION>International Travel Coverage</DESCRIPTION>
+  <FEE>100</FEE>
+ </ROW>
+</ROWSET>
