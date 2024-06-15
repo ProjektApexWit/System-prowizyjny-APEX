@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <ROLE_ID>1</ROLE_ID>
+  <NAME>MANAGER</NAME>
+  <WAGE>8000</WAGE>
+ </ROW>
+ <ROW>
+  <ROLE_ID>2</ROLE_ID>
+  <NAME>SALESMAN</NAME>
+  <WAGE>6000</WAGE>
+ </ROW>
+</ROWSET>
